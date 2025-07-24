@@ -2,32 +2,32 @@
 CBIT Research Internship - Prof K Rama Krishna <br>
 <hr style = "height:0.5px;">
 Internship Progress 🚀<br>
-<hr>
+<hr style = "height:0.5px;">
 ✅ Python Programming Essentials Completed <br>
 Course: Python Programming Essentials<br>
 Status: Completed ✅<br>
 Date: 28th May 2025<br>
 Certificate :https://infyspringboard.onwingspan.com/public-assets/infosysheadstart/cert/lex_auth_0138417469820436482586_shared/1-04b874c0-d306-4a2e-8435-c9ce915bd554.pdf<br>
 Summary: Learned the fundamentals of Python including variables, conditionals, loops, and basic functions with the concepts of OOPS<br>
-<hr>
+<hr style = "height:0.5px;">
 ✅ Machine Learning Fundamentals Completed<br>
 Course: Machine Learning Fundamentals (University of London, Coursera)<br>
 Status: Completed ✅<br>
 Date: 24th June 2025<br>
 Certificate: https://infyspringboard.onwingspan.com/web/en/app/toc/lex_8840337130015322000_shared/overview<br>
 Summary: Covered basic concepts of supervised and unsupervised learning, classification, and model evaluation.<br>
-<hr>
+<hr style = "height:0.5px;">
 ✅ Fundamentals of Deep Learning Completed<br>
 Course: Fundamentals of Deep Learning (Infosys Springboard)<br>
 Status: Completed ✅<br>
 Date: 14th July 2025<br>
 Certificate: https://infyspringboard.onwingspan.com/public-assets/infosysheadstart/cert/lex_auth_012782105116811264219_shared/1-4a746ffa-04dd-40ab-a4c3-7390d1759bd3.pdf<br>
 Summary: Introduced to neural networks, CNNs, and foundational theory for deep learning.<br>
-<hr>
+<hr style = "height:0.5px;">
 <br>
 🎓 CAPSTONE PROJECT<br>
 <br>
-<hr>
+<hr style = "height:0.5px;">
 TITLE:<br>
 Handwritten Medical Prescription Digitizer using TrOCR/ViT<br>
 Status : Pending <br>
@@ -47,7 +47,7 @@ Key Features of the Handwritten Medical OCR System<br>
 7.Secure & Offline: Can run offline without compromising patient privacy.<br>
 8.Affordable: Software-based solution with minimal hardware requirements.<br>
 <br>
-<hr>
+<hr style = "height:0.5px;">
 Tech Stack<br>
 🖼 Image Processing<br>
 OpenCV, Pillow – for preprocessing (noise removal, binarization, skew correction)<br>
@@ -68,7 +68,7 @@ Custom language model – for context-aware correction<br>
 python-docx, ReportLab – to generate .docx or PDF with corrected prescription<br>
 Streamlit / Flask – for a simple user interface <br>
 <br>
-<hr>
+<hr style = "height:0.5px;">
 USE CASES:<br>
 🏥Digitize handwritten prescriptions in hospitals and clinics<br>
 💊 Assist pharmacies in accurate medicine dispensing<br>
