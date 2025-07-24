@@ -6,7 +6,7 @@ Internship Progress 🚀<br>
 ✅ Python Programming Essentials Completed <br>
 Course: Python Programming Essentials<br>
 Status: Completed ✅<br>
-Date: 28th May 2025<br>
+Date: 6th June 2025<br>
 Certificate :https://infyspringboard.onwingspan.com/public-assets/infosysheadstart/cert/lex_auth_0138417469820436482586_shared/1-04b874c0-d306-4a2e-8435-c9ce915bd554.pdf<br>
 Summary: Learned the fundamentals of Python including variables, conditionals, loops, and basic functions with the concepts of OOPS<br>
 <hr style = "height:0.5px;">
@@ -20,7 +20,7 @@ Summary: Covered basic concepts of supervised and unsupervised learning, classif
 ✅ Fundamentals of Deep Learning Completed<br>
 Course: Fundamentals of Deep Learning (Infosys Springboard)<br>
 Status: Completed ✅<br>
-Date: 14th July 2025<br>
+Date: 8th July 2025<br>
 Certificate: https://infyspringboard.onwingspan.com/public-assets/infosysheadstart/cert/lex_auth_012782105116811264219_shared/1-4a746ffa-04dd-40ab-a4c3-7390d1759bd3.pdf<br>
 Summary: Introduced to neural networks, CNNs, and foundational theory for deep learning.<br>
 <hr style = "height:0.5px;">
