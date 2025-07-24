@@ -1,6 +1,6 @@
 # CBIT-Internship
 CBIT Research Internship - Prof K Rama Krishna <br>
-<hr>
+<hr style = "height:1px;">
 Internship Progress 🚀<br>
 <hr>
 ✅ Python Programming Essentials Completed <br>
