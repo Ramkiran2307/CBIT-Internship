@@ -30,8 +30,8 @@ Summary: Introduced to neural networks, CNNs, and foundational theory for deep l
 <hr style = "height:0.5px;">
 TITLE:<br>
 Handwritten Medical Prescription Digitizer using TrOCR/ViT<br>
-Status : Pending <br>
-Git repo : ____<br>
+Status : Completed <br>
+Git repo : https://github.com/Ramkiran2307/medical_OCR_Project<br>
 <br>
 Objective:
 Allow doctors to write prescriptions on paper as usual. Then, automatically convert scanned handwritten prescriptions into structured, digital text using AI — correcting handwriting mistakes with medical vocabulary.<br>
